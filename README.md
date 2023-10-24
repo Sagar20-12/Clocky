@@ -1,6 +1,10 @@
-# clocky
+# clocky:
 
 A new Flutter project.
+To run this application simply run 'Flutter run' command in terminal.
+If problem persist run flutter doctor.
+
+![Clocky](https://github.com/Sagar20-12/Clocky/assets/105165285/ff109137-b626-49a5-b807-e60761d59351)
 
 ## Getting Started
 
